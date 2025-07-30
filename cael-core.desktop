@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Cael Core
+Exec=python3 /home/$USER/cael-core-gui/dashboard.py
+Type=Application
+Terminal=false
+Icon=utilities-terminal
+Categories=Utility;
